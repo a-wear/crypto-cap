@@ -1,0 +1,15 @@
+# Java Card Development Kit home directory
+jc.home=/fake-path/java_card_kit-x_y_z/
+# Package parameters
+jc.package.AID=736563736368
+jc.package.version=1.0
+jc.package.name=security-scheme-javacard.cap
+# Applet parameters
+jc.applet.AID=7365637363682d61770
+# GlobalPlatform parameters
+gp.cmd=gp.jar
+# Environment
+env.directory.bin=bin/
+env.directory.lib=lib/
+env.directory.out=out/
+env.directory.logs=logs/
